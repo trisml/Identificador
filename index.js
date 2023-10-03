@@ -1,3 +1,6 @@
+//Nombre: Tristán Marin
+//Repositorio GitHub https://github.com/trisml/Identificador.git
+
 let num = prompt('Introduzca un numero: ')
 numero = parseInt(num);
 if (numero>0){
